@@ -13,3 +13,7 @@
 # Local Tailwind standalone CLI (platform-specific binary; downloaded on demand).
 /tools/
 ###< dispatch blog ###
+
+###> tutorial ###
+.DS_Store
+###< tutorial ###
